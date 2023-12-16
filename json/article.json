@@ -1,0 +1,25 @@
+[
+    {
+        "id" : 1,
+        "namaArticle" : "Myitem",
+        "headline" : "Something is headline",
+        "paragaph1" : "This is first paragraph",
+        "paragaph2" : "This is second paragraph",
+        "paragaph3" : "This is third paragraph",
+        "image1" : "#",
+        "image2" : "#",
+        "image3" : "#"
+    },
+    {
+        "id" : 2,
+        "namaArticle" : "Myitem2",
+        "headline" : "Something is headline",
+        "paragaph1" : "This is first paragraph",
+        "paragaph2" : "This is second paragraph",
+        "paragaph3" : "This is third paragraph",
+        "image1" : "#",
+        "image2" : "#",
+        "image3" : "#"
+    }
+
+]

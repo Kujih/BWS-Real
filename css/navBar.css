@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+    background-color:aqua ;
+    min-height: 3.5rem;
+    height: 4.6rem;
+    border-radius: 1%;
+}
+
+.navBarItem{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    list-style-type: none;
+    margin: 0 24%;
+}
+
+.navBarItem li{
+    position: relative;
+    top: 0.5rem;
+    background-color: aquamarine;
+    padding: 18px;
+}
+
+.homePage>a, .article>a, .menuNav>a{
+    text-decoration:none;
+}
