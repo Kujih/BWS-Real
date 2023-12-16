@@ -47,7 +47,7 @@ fetch('../json/article.json')
   })
 
   .catch(error => {
-    console.error('Error fetching data:', error);
+    console.error('Error fetching data: False', error);
   });
 
 //   Format number to rupiah currency
