@@ -72,4 +72,18 @@ body{
   #next-button {
     right: 25%;
   }
+
+  .article-btn{
+    width: 50%;
+    margin: 5px auto;
+    color:red;
+  }
+  
+  .article-btn h4{
+    text-align: center;
+  }
+
+  .article-btn .check{
+    color: red;
+  }
   
