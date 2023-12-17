@@ -1,25 +1,40 @@
 [
     {
         "id" : 1,
-        "namaArticle" : "Myitem",
-        "headline" : "Something is headline",
-        "paragaph1" : "This is first paragraph",
-        "paragaph2" : "This is second paragraph",
-        "paragaph3" : "This is third paragraph",
-        "image1" : "#",
-        "image2" : "#",
-        "image3" : "#"
+        "namaArticle" : "Halo, perkenalkan kami Steak 227!",
+        "headline" : "Selamat datang di Steak227, tempat yang memanjakan lidah Anda dengan cita rasa steak yang tak tertandingi di Pluit, Jakarta. Sejak berdiri pada tahun 2023, kami telah membangun reputasi sebagai destinasi makan yang mengutamakan kualitas tinggi dalam setiap sajian. Komitmen kami terhadap bahan-bahan segar dan premium menjadikan setiap hidangan di Steak227 sebuah pengalaman kuliner yang istimewa.",
+        "paragraph1" : "Jangan lewatkan kesempatan untuk menjelajahi menu istimewa kami yang telah dirancang dengan cermat untuk memenuhi selera beragam. Dengan beragam pilihan steak dan Rice Box, Steak227 tidak hanya menjadi tempat makan yang sempurna untuk penggemar daging, tetapi juga sebuah destinasi kuliner yang harus dicoba oleh semua pecinta makanan. Temukan kenikmatan tak terlupakan di Steak227, di mana setiap gigitan adalah pengalaman kuliner yang menggoda selera! ",
+        "paragraph2" : "Dibalut dengan keahlian kami dalam mengeksplorasi cita rasa baru, kami berdedikasi untuk memberikan Anda pengalaman tak terlupakan setiap kali menikmati hidangan di restoran kami. Daging yang dipanggang dengan sempurna menjadi ciri khas kami, dan bumbu-bumbu otentik yang kami gunakan menambahkan sentuhan khas pada setiap gigitan. Inilah tempatnya para penikmat steak sejati yang menghargai kelezatan daging yang berkualitas tinggi.",
+        "paragraph3" : "Untuk memudahkan Anda menikmati hidangan lezat kami, Steak227 hadir dalam layanan pemesanan online melalui GoFood & GrabFood. Apakah Anda mengidamkan steak pada tengah malam atau siang hari, kami siap melayani Anda setiap hari, mulai dari Senin hingga Minggu, selama 24 jam penuh. Tidak perlu khawatir tentang waktu karena kami hadir untuk memuaskan selera Anda kapan saja."
     },
     {
         "id" : 2,
-        "namaArticle" : "Myitem2",
-        "headline" : "Something is headline",
-        "paragaph1" : "This is first paragraph",
-        "paragaph2" : "This is second paragraph",
-        "paragaph3" : "This is third paragraph",
-        "image1" : "#",
-        "image2" : "#",
-        "image3" : "#"
+        "namaArticle" : "PROMO YANG DITUNGGU-TUNGGU! PROMO 12.12!",
+        "paragraph1" : "Hadir dengan segarnya minuman, Paket Weekdays untuk 12.12 kini tampil lebih memikat! Sudah menanti-nanti Paket Weekdays? Tenang saja, Steak227lovers, Paket Weekdays kembali menyapa untuk menyemarakkan setiap aktivitasmu, di promo 12.12 ini harga paket menjadi 60.000/paket (Hemat hingga 30%) termasuk steak, kentang, dan minuman!!",
+        "paragraph2" : "Jadi, bagi yang pulang siang, jangan lupa untuk memesan Paket Weekdays di Steak227! Semarakkan harimu dengan kenikmatan paket spesial kami. 🥤✨"
+    },
+    {
+        "id" : 3,
+        "namaArticle" : "Bagaimana sih asal-usul Steak? ",
+        "paragraph1" : "Steak, hidangan Barat yang merajai meja makan di berbagai belahan dunia, memberikan pengalaman kuliner yang tak terlupakan. Proses memanggang atau membakar dagingnya menghasilkan aroma yang menggoda selera dan sudah menjadi bagian dari sejarah kuliner sejak abad ke-15. Eksistensinya tercatat dalam buku masak zaman dahulu, memperlihatkan bahwa resep steak telah menjadi bagian dari warisan kuliner yang kaya. Asal kata 'steak' dari bahasa Skandinavia, yaitu 'steik' menggambarkan irisan daging tebal yang dipanggang, dan hal ini terus berkembang hingga sekarang.",
+        "paragraph2" : "Daging steak dipersiapkan dengan potongan tebal, dijaga kesegarannya, dan minim tambahan bumbu. Penggunaan mentega, merica, garam, serta rempah khas seperti thyme, oregano, atau bawang putih menjadi rahasia dalam memanggangnya. Steak dapat dimasak dalam lima tingkatan kematangan, mulai dari rare (matang di luar tapi masih mentah di dalam) hingga well done (sudah matang sepenuhnya), memberikan variasi cita rasa untuk semua selera.",
+        "paragraph3" : "Meski awalnya terbuat dari daging rusa, evolusi steak terjadi seiring kesulitan mendapatkan rusa di beberapa negara. Daging sapi, kerbau, kambing, babi, hingga ikan menggantikan posisi rusa. Popularitas steak dari daging sapi melonjak di abad ke-18, mengikuti pertumbuhan produksi sapi yang menjadi simbol kemakmuran di Amerika. Saat ini, steak menjadi ikon makan malam, sering dijadikan menu spesial dalam suasana romantis yang ditemani wine.",
+        "paragraph4" : "Steak disajikan dengan beragam saus seperti BBQ, saus jamur, saus lada hitam, hingga saus keju, diiringi oleh sayuran rebus dan karbohidrat seperti kentang goreng atau mashed potato. Di Indonesia, steak diperkenalkan oleh Belanda pada masa penjajahan dengan nama bistik. Bistik Jawa, dengan kuah encer yang mirip semur, menjadi varian lokal yang terus populer.",
+        "paragraph5":"Bagi kalian pecinta steak, berada di daerah Pluit, dan ingin mencoba kelezatan daging steak. Kami Steak 227 menyediakan steak dengan rasa yang otentik dan bumbu rahasia yang akan meningkatakan pengalaman kulinermu! Apakah kamu siap memanjakan lidahmu dengan pengalaman steak yang menggoda ini? Segera pesan menu steak dan rice box kami di Go-Food dan GrabFood!"
+    },
+    {
+        "id" : 4,
+        "namaArticle" : "PROSEDUR NEW NORMAL DI STEAK227! ",
+        "headline" : "Untuk menjamin adanya kebersihan & mencegah penularan virus covid-19 kembali, kami Steak 227 selalu memastikan adanya area yang aman serta bahan makanan yang bersih agar pelanggan akan selalu merasa nyaman",
+        "paragraph1" : "Seiring dengan adaptasi terhadap situasi baru dalam era New Normal, Steak 227 di Pluit, Jakarta, dengan bangga memperkenalkan prosedur baru untuk memastikan pengalaman makan Anda tetap aman, nyaman, dan lezat. Inilah langkah-langkah yang telah kami terapkan untuk menjaga keamanan dan kesehatan pelanggan serta staf kami:",
+        "paragraph2" : "Kami mendorong pelanggan untuk melakukan reservasi melalui platform online atau telepon untuk menghindari antrian dan kerumunan di tempat. Selain itu, kami menerima pembayaran non-tunai, seperti transfer bank atau pembayaran digital, untuk meminimalkan kontak fisik.",
+        "paragraph3" : "Sebelum masuk, setiap pelanggan akan disambut dengan penyediaan hand sanitizer untuk membersihkan tangan dan pengecek suhu otomatis. Kami juga melakukan pemeriksaan suhu tubuh sebagai langkah awal dalam memastikan kesehatan pelanggan dan staf kami.",
+        "paragraph4" : "Meja dan kursi diatur dengan jarak fisik yang aman sesuai pedoman kesehatan. Hal ini bertujuan untuk memastikan bahwa setiap pelanggan dapat menikmati hidangan steak mereka dengan nyaman tanpa khawatir akan kepadatan.",
+        "paragraph5":"Semua peralatan makan, termasuk piring, sendok, garpu, dan pisau, dijamin steril dan dibersihkan secara intensif setelah setiap penggunaan. Kami memastikan bahwa setiap hidangan disajikan dengan kebersihan yang sempurna.",
+        "paragraph6": "Kami menyediakan menu digital yang dapat diakses melalui perangkat pribadi pelanggan atau menyediakan menu kertas sekali pakai untuk mengurangi sentuhan. Ini adalah upaya kami untuk meminimalkan interaksi langsung dengan benda yang sering disentuh.",
+        "paragraph7": "Staf kami telah menjalani pelatihan kesehatan intensif, termasuk protokol pencegahan penularan virus, kebersihan tangan, dan prosedur penanganan makanan dengan aman. Ini bertujuan untuk memberikan lingkungan yang aman bagi pelanggan dan staf kami.",
+        "paragraph8": "Jika Anda lebih memilih menikmati steak kami di rumah, kami tetap menyediakan layanan pesan antar dan takeaway. Pesan melalui layanan online food order seperti GoFood & GrabFood untuk menikmati hidangan berkualitas tinggi Steak 227 di kenyamanan rumah Anda.",
+        "paragraph9": "Kami di Steak 227 berkomitmen untuk memberikan pengalaman makan yang luar biasa, sekaligus menjaga keamanan dan kesehatan pelanggan dan staf kami. Dengan prosedur New Normal yang cermat, kami yakin bahwa setiap kunjungan Anda akan tetap menjadi pengalaman kuliner yang aman, lezat, dan tak terlupakan. Selamat menikmati kenikmatan steak berkualitas tinggi dengan ketenangan pikiran di Steak 227! "
     }
 
 ]

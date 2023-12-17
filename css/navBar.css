@@ -5,9 +5,12 @@
 
 nav{
     background-color:aqua ;
-    min-height: 3.5rem;
     height: 4.6rem;
     border-radius: 1%;
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index: 1;
 }
 
 .navBarItem{

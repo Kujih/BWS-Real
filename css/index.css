@@ -1,5 +1,8 @@
 :root{
     --textcolor1: #f1f1f1;
+    --textcolor2: #0f0000;
+    --btn-color: rgb(154, 86, 8);
+    --btn-color-bdr:rgb(154,82,8);
 }
 
 body{
@@ -14,6 +17,7 @@ body{
    background-position: center center;
    height: auto;
    width: 100%;
+   margin-top: 4.5rem;
 }
  
 .intro h1{
@@ -76,14 +80,28 @@ body{
   .article-btn{
     width: 50%;
     margin: 5px auto;
+    display: flex;
+    flex-direction: column;
     color:red;
   }
   
   .article-btn h4{
+    font-size: 40px;
     text-align: center;
+    letter-spacing: 0.2rem;
   }
 
   .article-btn .check{
-    color: red;
+    width: 20%;
+    margin: 20px auto;
+    position: relative;
+    color: var(--textcolor1);
+    background-color: var(--btn-color);
+    border: 3px solid var(--btn-color-bdr) ;
+    height: 40px;
+  }
+  .check a{
+    color: white;
+    text-decoration: none;
   }
   
