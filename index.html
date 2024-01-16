@@ -1,47 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Steak 227 - Home</title>
-    <script src="https://kit.fontawesome.com/180eeafea4.js" crossorigin="anonymous"></script>
-    <script src="javascript/index.js"></script>
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="css/navBar.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Steak 227 - Home</title>
+  <script src="https://kit.fontawesome.com/180eeafea4.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/navBar.css">
 </head>
+
 <body>
-    <header>
-        <nav>
-            <ul class="navBarItem">
-                <li class="homePage"> <a href="#">Home</a></li>
-                <li class="menuNav"><a href="#menu">Menu</a>
-                </li>
-                <li class="article"><a href="html/article.html">The Article</a></li>
-            </ul>
-        </nav>
-    </header>
-        <section class="intro">
-            <h1>Steak 227</h1>
-            <p>This is a shop that can make your experience for make a steak become good</p>
-        </section>
-        <section class="menu">
-            <div class="slideshow">
-                    <i class="fa-solid fa-chevron-left" id="prev-button"></i>
-                    <div class="menu-card active" id="current-card">
-                        <img src="" alt="Steakimage">
-                        <h4 id="menu-name">[name]</h4>
-                        <div id="menu-price">[price]</div>
-                    </div>
-                    <i class="fa-solid fa-angle-right" id="next-button"></i>
-            </div>
-        </section>
-        <section class="article-btn">
-            <h4>Let's See our article!</h4>
-            <button class="check" href>  <a href="html/article.html">
-                Check Our Article
-            </a>
-        </button>
-        </section>
-        
-    </body>
+  <header>
+    <nav>
+      <ul class="navBarItem">
+        <li class="homePage"> <a href="#">Home</a></li>
+        <li class="menuNav"><a href="#menu">Menu</a>
+        </li>
+        <li class="article"><a href="html/article.html">The Article</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="intro">
+    <h1>Steak 227</h1>
+    <p>Forget the ordinary, savor the extraordinary. Step into our haven of sizzling artistry, where your steak isn't
+      just a meal, it's an adventure for the senses. The aroma of char mingles with the warm glow of firelight, while
+      melt-in-your-mouth tenderness dances on your palate. Prepare to be captivated by every bite, every sip, every
+      moment – this is where steak becomes an unforgettable epicurean journey.</p>
+  </section>
+
+  <section class="menu" id="menu">
+    <h3>Our Menu</h3>
+    <div class="slideshow">
+      <div class="menu-card active" id="current-card">
+        <img src="/assets/images/Produk3.jpg" alt="Steakimage" id="menu-image">
+        <h4 id="menu-name">Steak</h4>
+        <div id="menu-price">Rp. 60.000</div>
+      </div>
+      <div class="menu-card active" id="current-card">
+        <img src="/assets/images/steakForBanner.jpg" alt="Steakimage" id="menu-image">
+        <h4 id="menu-name">Steak</h4>
+        <div id="menu-price">Rp. 74.000</div>
+      </div>
+      <div class="menu-card active" id="current-card">
+        <img src="/assets/images/Prdouk2.jpg" alt="Steakimage" id="menu-image">
+        <h4 id="menu-name">Steak</h4>
+        <div id="menu-price">Rp. 80.000</div>
+      </div>
+      <div class="menu-card active" id="current-card">
+        <img src="./assets/images/steakForBanner.jpg" alt="Steakimage" id="menu-image">
+        <h4 id="menu-name">Steak</h4>
+        <div id="menu-price">Rp. 69.000</div>
+      </div>
+    </div>
+    <div class="popup-menu">
+      <div class="popup-menu-overlay"></div> 
+      <div class="popup-menu-content">
+        <div class="popup-menu-header">
+          <h3 id="popup-menu-name"></h3>
+          <div id="popup-menu-price"></div>
+        </div>
+        <div class="popup-menu-body">
+          <img id="popup-menu-image" alt="Menu Image" />
+          <p id= "menu-description">This steak is the best steak</p>
+        </div>
+        <i class="fa-regular fa-circle-xmark popup-close" style="color: #b18e10;"></i>
+      </div>
+    </div>
+
+  </section>
+  <section class="article-btn">
+    <h4>Let's See our article!</h4>
+    <div
+    <button class="check" href> <a href="html/article.html">
+        Check Our Article
+      </a>
+    </button>
+  </section>
+</body>
+  <script src="/javascript/produk.js"></script>
 </html>

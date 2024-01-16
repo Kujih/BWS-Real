@@ -51,16 +51,7 @@ fetch(filetext)
 
 
 //   Format number to rupiah currency
-  function formatRupiahNoDecimal(hargaNumber) {
-    const formatter = new
-   
-  Intl.NumberFormat('id-ID', {
-      style: 'currency',
-      currency: 'IDR',
-      minimumFractionDigits: 0,
-    });
-    return formatter.format(hargaNumber);
-  }
+  
 
   function checkData(data, property) {
     if (data && typeof data[property] !== "undefined") {
