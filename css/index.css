@@ -140,6 +140,7 @@ body {
   transition: opacity 0.3s ease-in-out; /* Add a smooth transition for visibility */
   z-index: 997; /* Ensure it appears above other elements */
   min-width: 35vw;
+  max-width: 40vw;
   min-height: 70vh;
 }
 
